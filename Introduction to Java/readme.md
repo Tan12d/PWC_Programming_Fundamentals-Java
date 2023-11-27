@@ -21,3 +21,5 @@ System.out.println("Thank you for your order");
 Sample Input /Output:
 
 Thank you for your order
+
+![image](https://github.com/Tan12d/PWC_Programming_Fundamentals-Java/assets/100254217/f13fd41f-1608-4b1e-9541-9c516c5423ff)
