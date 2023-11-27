@@ -179,4 +179,4 @@ Invalid plant area
 
 ## Output
 
-![Uploading image.png…]()
+![image](https://github.com/Tan12d/PWC_Programming_Fundamentals-Java/assets/100254217/5aa619db-e013-499c-bee7-781fd94453de)
