@@ -30,4 +30,6 @@ Sample Output:
 
 Dear Jack, welcome onboard with service from Dubai to Chicago. Thank you for choosing Sky Airlines. Enjoy your flight.
 
+## Output
+
 ![image](https://github.com/Tan12d/PWC_Programming_Fundamentals-Java/assets/100254217/c8da4731-2b67-4108-9623-ad93008eb34c)
