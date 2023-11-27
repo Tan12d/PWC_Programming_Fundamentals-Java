@@ -1,4 +1,4 @@
-![image](https://github.com/Tan12d/PWC_Programming_Fundamentals-Java/assets/100254217/9fb5a4c5-c412-4dbc-ac21-f7b4553b4642)# Practice program: Magic goose
+# Practice program: Magic goose
 
 ## Description
 
