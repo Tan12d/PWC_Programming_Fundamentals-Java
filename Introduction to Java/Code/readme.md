@@ -1,5 +1,5 @@
 
-# Practice program: Print Message
+# Print Message
 
 ## Description 
 
